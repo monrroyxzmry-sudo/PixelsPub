@@ -1,4 +1,4 @@
-# Pixels - Smart Resolution and DPI Changer
+# kkPixels - Smart Resolution and DPI Changer
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.tribalfs.pixels)
 
